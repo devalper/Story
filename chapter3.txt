@@ -1,1 +1,3 @@
 Finally this is the 3rd file of Git lesson.
+But these copies are created on the alien-plot branch.
+If I merge them at the ende of the lesson this will be the final version to see. But we can always go back to any version we want.
