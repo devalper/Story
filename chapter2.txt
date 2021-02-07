@@ -1,1 +1,1 @@
-This is the chapter 2 file of Git lesson.
+This is the branching version of chapter 2 file of Git lesson.
